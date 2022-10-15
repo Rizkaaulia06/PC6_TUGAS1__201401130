@@ -6,7 +6,7 @@
 <body>
 <center>
 	<!-- MODUL 1 -->
-	<marquee scrolldelay="70" title="apaya" behavior="slide"><h1>PENGOLAHAN CITRA - 130<h1></marquee>
+	<marquee scrolldelay="70" title="apaya" behavior="slide"><h1>PC6- RIZKA AULIA - 130<h1></marquee>
 	<div class="row">
 		<div class="column">
 			<canvas id='canvas1' style='display:block;margin:10px'></canvas>
